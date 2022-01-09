@@ -1,6 +1,6 @@
 import React from 'react';
 import { useHistory } from 'react-router-dom';
-import '../styles/App.css'
+import '../styles/App.css';
 import MyButton from './UI/button/MyButton';
 
 const PostItem = (props) => {
